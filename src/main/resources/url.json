@@ -1,0 +1,26 @@
+[
+  {
+    "url" : "https://www.iris.go.kr/contents/retrieveBsnsAncmBtinSituListView.do?ancmPrg=ancmIng"
+  },
+  {
+    "url" : "https://www.msit.go.kr:443/bbs/list.do?sCode=user&mId=129&mPid=224"
+  },
+  {
+    "url" : "https://www.motie.go.kr/motie/ms/nt/announce3/bbs/bbsList.do?bbs_cd_n=6&currentPage="
+  },
+  {
+    "url" : "https://itech.keit.re.kr/bsnsancm/retrieveSprtBsnsAncmList.do"
+  },
+  {
+    "url" : "https://www.kiat.or.kr/front/board/boardContentsListAjax.do?board_id=77&MenuId=1e29209309434ec29095728c6f1356c7"
+  },
+  {
+    "url" : "https://www.nia.or.kr/site/nia_kor/ex/bbs/List.do?cbIdx=78336"
+  },
+  {
+    "url" : "https://www.mss.go.kr/site/smba/ex/bbs/List.do?cbIdx=310&searchRltnYn=A"
+  },
+  {
+    "url" : "https://smtech.go.kr/front/ifg/no/notice02_list.do;jsessionid=kDlWrUkHfnxu4C23C9RsnPb4tWwpD7BTBRKsPEcaNaPr43caxoGtSQVhghfufH4O.smwas3_servlet_engine4"
+  }
+]
